@@ -19,12 +19,25 @@ header{
     text-align: center;
 }
 .HEEDER{
+    color: azure;
     text-align: center;
     font-family: fantasy;
+    background-color: black;
+    border: 15px solid gray;
+    margin: 20px;
 }
 P{
+    
     text-indent: 50px;
     font-family: sans-serif;
+    
+}
+footer{
+    color: azure;
+    background-color: black;
+    padding: 20px;
+    border: 15px solid grey;
+    margin: auto;
 }
 
     
