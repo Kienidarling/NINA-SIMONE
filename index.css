@@ -1,0 +1,31 @@
+header > div#header1 > img{
+    float: right;
+    width: ;
+}
+header > div#header1 >h1{
+    color: azure;
+    
+}
+header{
+    background-color: black;
+    padding: 30px;
+    border: 40px;
+    
+}
+#PA1,#PA2,#PA3{
+    padding: 10px;
+    border: 10PX solid gray;
+    margin: auto;
+    text-align: center;
+}
+.HEEDER{
+    text-align: center;
+    font-family: fantasy;
+}
+P{
+    text-indent: 50px;
+    font-family: sans-serif;
+}
+
+    
+    
