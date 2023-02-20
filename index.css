@@ -39,11 +39,12 @@ footer{
     padding: 20px;
     border: 15px solid grey;
     margin: auto;
-}
-{
-    background-attachment: fixed;
-    background-size: cover;
-}
+    }
+    .images{
+        text-align: center;
+        border: 10px solid black;
+        
+    }
 
     
     
