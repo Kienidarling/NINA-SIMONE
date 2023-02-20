@@ -1,15 +1,15 @@
-header > div#header1 > img{
+#heade{
     float: right;
-    width: ;
-}
-header > div#header1 >h1{
-    color: azure;
+    
     
 }
 header{
     background-color: black;
+    
+    height:  ;
     padding: 30px;
-    border: 40px;
+    border: 50px;
+
     
 }
 #PA1,#PA2,#PA3{
@@ -34,10 +34,15 @@ P{
 }
 footer{
     color: azure;
+    text-align: center;
     background-color: black;
     padding: 20px;
     border: 15px solid grey;
     margin: auto;
+}
+{
+    background-attachment: fixed;
+    background-size: cover;
 }
 
     
